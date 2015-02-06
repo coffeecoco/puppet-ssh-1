@@ -19,4 +19,8 @@
 
 # TODO: this module could be integrated with my Exec['again'] and puppet-poke !
 
+class ssh() {
+
+}
+
 # vim: ts=8
